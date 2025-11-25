@@ -290,7 +290,7 @@ def xiu_gai_yi_ben_shu(du_shu_shu_ju):
 
                     # 退出修改
                     elif xin_du_shu == 5:
-                        print("✅ 修改完成，谢谢！")
+                        print("修改完成，谢谢！")
                         break  # 退出修改循环
                     else:
                         print("请输入1-5之间的选项")
